@@ -11,7 +11,6 @@
 This application was created to provide users with many different recipes with step-by-step instructions.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Photo & Video / Social
 - **Mobile:** The app would be primarily developed for mobile. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.The mobile app will use camera and audio.
 - **Story:**. Allow users to go to one place and get a recipe at any given time. 
@@ -65,7 +64,7 @@ This application was created to provide users with many different recipes with s
 
 ## Wireframes
 
-<img src="https://ibb.co/fNTDYMY" width=600>
+<img src="" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
