@@ -64,7 +64,7 @@ This application was created to provide users with many different recipes with s
 
 ## Wireframes
 
-<img src="" width=600>
+<img src="https://github.com/CodePath-Group-Project-TTC/The-Yummy-App/blob/main/Wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
