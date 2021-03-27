@@ -27,7 +27,8 @@ This application was created to provide users with many different recipes with s
 [X] User can create a new account
 [X] User can login
 [X] User can view photos
-* User can scroll through recipes stories and clicking on stories takes them to the instruction
+![Alt Text](http://g.recordit.co/eaeSPrJiGw.gif)
+[X] User can scroll through recipes stories and clicking on stories takes them to the instruction
 
 **Optional Nice-to-have Stories**
 
