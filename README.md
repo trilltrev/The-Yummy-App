@@ -29,11 +29,13 @@ This application was created to provide users with many different recipes with s
 [X] User can view photos
 ![Alt Text](http://g.recordit.co/eaeSPrJiGw.gif)
 [X] User can scroll through recipes stories and clicking on stories takes them to the instruction
+![Alt Text](http://g.recordit.co/niipIDCgvo.gif)
+
 
 **Optional Nice-to-have Stories**
 
 * User can see trending recipe
-* User  can like a recipe
+* User can like a recipe
 * User can see their profile page with their favorite recipes
 * User can add a comment to recipes
 
