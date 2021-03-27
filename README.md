@@ -24,9 +24,9 @@ This application was created to provide users with many different recipes with s
 
 **Required Must-have Stories**
 
-* User can create a new account
-* User can login
-* User can view photos
+[X] User can create a new account
+[X] User can login
+[X] User can view photos
 * User can scroll through recipes stories and clicking on stories takes them to the instruction
 
 **Optional Nice-to-have Stories**
